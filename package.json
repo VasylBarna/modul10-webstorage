@@ -1,0 +1,28 @@
+{
+  "name": "modul10-webstorage",
+  "version": "1.0.0",
+  "description": "Модуль 10. Занятие 20. Мастерская: знакомство с веб-приложениями",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VasylBarna/modul10-webstorage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VasylBarna/modul10-webstorage/issues"
+  },
+  "homepage": "https://github.com/VasylBarna/modul10-webstorage#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
